@@ -4,7 +4,7 @@ library(ggplot2)
 library(reshape2)
 library(lubridate)
 
-#### Find corrolated companies
+#### Find correlated companies
 
 ## Corrolations and lags
 ccf_fit <- function(A, B){
