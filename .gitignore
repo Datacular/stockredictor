@@ -2,3 +2,5 @@
 *.Rhistory
 *.png
 sentiments.csv
+financials.test.csv
+financials.train.csv
